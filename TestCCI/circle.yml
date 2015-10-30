@@ -17,5 +17,5 @@ dependencies:
 
 test:
     override:
-        - (/home/ubuntu/./gradlew assemble):
+        - ./gradlew assemble):
             timeout: 360

@@ -4,7 +4,7 @@
 
 general:
     artifacts:
-        - /home/nghiatv/NghiaTV/TestCCI/TestCCI/app/build/outputs/apk/
+        - /home/ubuntu/TestCCI/app/build/outputs/apk/
 
 machine:
     environment:
